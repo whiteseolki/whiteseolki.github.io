@@ -19,7 +19,7 @@ description: Stylish Portfolio is a responsive, one page portfolio theme for Boo
 
 keywords: jekyll, bootstrap, jekyll-site, jekyll-website, html, bootstrap4, bootstrap-4, bootstrap-theme, bootstrap-template, portfolio-website, portfolio-theme, open-source, free, google-anaytics, github-pages
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "whiteseolki" # the subpath of your site, e.g. /blog
 url: "https://whiteseolki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  whiteseolki
